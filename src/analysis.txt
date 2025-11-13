@@ -34,3 +34,4 @@ transpositionsort,300,299,38870,45149
 transpositionsort,400,399,76608,80199
 transpositionsort,500,499,121257,125249
 transpositionsort,600,599,175507,180299
+quicksort,200,2.42667E-4,0.001094625,2.21583E-4

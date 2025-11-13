@@ -1,72 +1,148 @@
+Adolf Brudes,West Germany,[1952],0,0,0,0
+Adrián Campos,Spain,"[1987, 1988]",0,0,0,0
+Alain de Changy,Belgium,[1959],0,0,0,0
+Alan Brown,United Kingdom,"[1952, 1953, 1954]",0,0,0,2
 Alberto Ascari,Italy,"[1950, 1951, 1952, 1953, 1954, 1955]",2,13,17,107.64
+Alberto Colombo,Italy,[1978],0,0,0,0
+Alberto Crespo,Argentina,[1952],0,0,0,0
 Alex Blignaut,South Africa,[1965],0,0,0,0
+Alex Caffi,Italy,"[1986, 1987, 1988, 1989, 1990, 1991]",0,0,0,6
 Alexander Albon,Thailand,"[2019, 2020, 2022]",0,0,2,202
 Allen Berg,Canada,[1986],0,0,0,0
+Andrea Chiesa,Switzerland,[1992],0,0,0,0
 Andrea de Adamich,Italy,"[1968, 1970, 1971, 1972, 1973]",0,0,0,6
+Andrea de Cesaris,Italy,"[1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994]",0,0,5,59
+Anthony Davidson,United Kingdom,"[2002, 2005, 2007, 2008]",0,0,0,0
+Antonio Creus,Spain,[1960],0,0,0,0
 Art Bisch,United States,[1958],0,0,0,0
+Art Cross,United States,"[1952, 1953, 1954, 1955]",0,0,1,8
+Bernard Collomb,France,"[1961, 1962, 1963, 1964]",0,0,0,0
 Bill Aston,United Kingdom,[1952],0,0,0,0
+Bill Brack,Canada,"[1968, 1969, 1972]",0,0,0,0
+Bill Cantrell,United States,[1950],0,0,0,0
+Bill Cheesbourg,United States,"[1957, 1958, 1959]",0,0,0,0
 Birabongse Bhanudej,Thailand,"[1950, 1951, 1952, 1953, 1954]",0,0,0,8
 Bob Anderson,United Kingdom,"[1963, 1964, 1965, 1966, 1967]",0,0,1,8
 Bob Bondurant,United States,"[1965, 1966]",0,0,0,3
+Bob Christie,United States,"[1956, 1957, 1958, 1959, 1960]",0,0,0,0
 Bobby Ball,United States,"[1951, 1952]",0,0,0,2
 Carlo Abate,Italy,"[1962, 1963]",0,0,0,0
 Chris Amon,New Zealand,"[1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976]",0,0,11,83
+Chris Bristow,United Kingdom,"[1959, 1960]",0,0,0,0
+Chris Craft,United Kingdom,[1971],0,0,0,0
+Christian Danner,West Germany,"[1985, 1986, 1987, 1989]",0,0,0,4
 Christijan Albers,Netherlands,"[2005, 2006, 2007]",0,0,0,4
 Chuck Arnold,United States,[1959],0,0,0,0
+Chuck Daigh,United States,[1960],0,0,0,0
+Clemar Bucci,Argentina,"[1954, 1955]",0,0,0,0
 Clemente Biondetti,Italy,[1950],0,0,0,0
 Cliff Allison,United Kingdom,"[1958, 1959, 1960, 1961]",0,0,1,11
+Colin Chapman,United Kingdom,[1956],0,0,0,0
+Colin Davis,United Kingdom,[1959],0,0,0,0
 Conny Andersson,Sweden,"[1976, 1977]",0,0,0,0
+Dave Charlton,South Africa,"[1965, 1967, 1968, 1970, 1971, 1972, 1973, 1974, 1975]",0,0,0,0
+David Brabham,Australia,"[1990, 1994]",0,0,0,0
+David Clapham,South Africa,[1965],0,0,0,0
+David Coulthard,United Kingdom,"[1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008]",0,13,62,535
 Derek Bell,United Kingdom,"[1968, 1969, 1970, 1971, 1972, 1974]",0,0,0,1
+Derek Daly,Ireland,"[1978, 1979, 1980, 1981, 1982]",0,0,0,15
 Don Beauman,United Kingdom,[1954],0,0,0,0
+Don Branson,United States,"[1959, 1960]",0,0,0,3
+Duane Carter,United States,"[1950, 1951, 1952, 1953, 1954, 1955, 1959, 1960]",0,0,1,6.5
+Eddie Cheever,United States,"[1978, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989]",0,0,9,70
 Edgar Barth,"East Germany, West Germany","[1953, 1957, 1958, 1960, 1961, 1964]",0,0,0,0
+Eitel Cantoni,Uruguay,[1952],0,0,0,0
 Elio de Angelis,Italy,"[1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986]",0,2,9,122
 Emil Andres,United States,[1950],0,0,0,0
 Enrico Bertaggia,Italy,[1989],0,0,0,0
 Enrique Bernoldi,Brazil,"[2001, 2002]",0,0,0,0
+Eric Brandon,United Kingdom,"[1952, 1954]",0,0,0,0
+Ernesto Brambilla,Italy,"[1963, 1969]",0,0,0,0
 Erwin Bauer,West Germany,[1953],0,0,0,0
+Ettore Chimeri,Venezuela,[1960],0,0,0,0
+Eugenio Castellotti,Italy,"[1955, 1956, 1957]",0,0,3,19.5
+Eugène Chaboud,France,"[1950, 1951]",0,0,0,1
 Fabrizio Barbazza,Italy,"[1991, 1993]",0,0,0,2
 Felice Bonetto,Italy,"[1950, 1951, 1952, 1953]",0,0,2,17.5
 Fernando Alonso,Spain,"[2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2021, 2022]",2,32,99,2076
+Franco Comotti,Italy,"[1950, 1952]",0,0,0,0
 Frank Armi,United States,[1954],0,0,0,0
+François Cevert,France,"[1970, 1971, 1972, 1973]",0,1,13,89
 Fred Agabashian,United States,"[1950, 1951, 1952, 1953, 1954, 1955, 1956, 1957]",0,0,0,1.5
+Gary Brabham,Australia,[1990],0,0,0,0
+Geoffrey Crossley,United Kingdom,[1950],0,0,0,0
 George Abecassis,United Kingdom,"[1951, 1952]",0,0,0,0
 George Amick,United States,[1958],0,0,1,6
+George Connor,United States,"[1950, 1951, 1952]",0,0,0,0
+George Constantine,United States,[1959],0,0,0,0
 Georges Berger,Belgium,"[1953, 1954]",0,0,0,0
 Gerhard Berger,Austria,"[1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997]",0,10,48,385
 Gerry Ashmore,United Kingdom,"[1961, 1962]",0,0,0,0
 Giancarlo Baghetti,Italy,"[1961, 1962, 1963, 1964, 1965, 1966, 1967]",0,1,1,14
+Gianfranco Brancatelli,Italy,[1979],0,0,0,0
+Gianmaria Bruni,Italy,[2004],0,0,0,0
 Gino Bianco,Brazil,[1952],0,0,0,0
 Giorgio Bassi,Italy,[1965],0,0,0,0
 Giovanna Amati,Italy,[1992],0,0,0,0
+Giulio Cabianca,Italy,"[1958, 1959, 1960]",0,0,0,3
 Hans Binder,Austria,"[1976, 1977, 1978]",0,0,0,0
 Harry Blanchard,United States,[1959],0,0,0,0
 Henry Banks,United States,"[1950, 1951, 1952]",0,0,0,0
 Ian Ashley,United Kingdom,"[1974, 1975, 1976, 1977]",0,0,0,0
+Ian Burgess,United Kingdom,"[1958, 1959, 1960, 1961, 1962, 1963]",0,0,0,0
+Ivan Capelli,Italy,"[1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993]",0,0,3,31
+Ivor Bueb,United Kingdom,"[1957, 1958, 1959]",0,0,0,0
 Jack Aitken,United Kingdom,[2020],0,0,0,0
+Jack Brabham,Australia,"[1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970]",3,14,31,253
 Jaime Alguersuari,Spain,"[2009, 2010, 2011]",0,0,0,31
+Jay Chamberlain,United States,[1962],0,0,0,0
 Jean Alesi,France,"[1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001]",0,1,32,241
 Jean Behra,France,"[1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959]",0,0,9,51.14
+Jean-Christophe Boullion,France,[1995],0,0,0,3
 Jean-Pierre Beltoise,France,"[1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974]",0,1,8,77
+Jenson Button,United Kingdom,"[2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017]",1,15,50,1235
+Jim Clark,United Kingdom,"[1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968]",2,25,32,255
+Jim Crawford,United Kingdom,[1975],0,0,0,0
+Jimmy Bryan,United States,"[1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959, 1960]",0,1,3,18
+Jimmy Davies,United States,"[1950, 1951, 1953, 1954, 1955]",0,0,1,4
+Jimmy Daywalt,United States,"[1953, 1954, 1955, 1956, 1957, 1959]",0,0,0,0
 Jo Bonnier,Sweden,"[1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971]",0,1,1,39
 John Barber,United Kingdom,[1953],0,0,0,0
+John Campbell-Jones,United Kingdom,"[1962, 1963]",0,0,0,0
+John Cannon,Canada,[1971],0,0,0,0
+John Cordts,Canada,[1969],0,0,0,0
+Johnny Boyd,United States,"[1955, 1956, 1957, 1958, 1959, 1960]",0,0,1,4
+Johnny Cecotto,Venezuela,"[1983, 1984]",0,0,0,1
+Johnny Claes,Belgium,"[1950, 1951, 1952, 1953, 1955]",0,0,0,0
+Joie Chitwood,United States,[1950],0,0,0,1
+Jorge Daponte,Argentina,[1954],0,0,0,0
 Juan Manuel Bordeu,Argentina,[1961],0,0,0,0
 Jules Bianchi,France,"[2013, 2014]",0,0,0,2
 Julian Bailey,United Kingdom,"[1988, 1991]",0,0,0,1
+Jérôme d'Ambrosio,Belgium,"[2011, 2012]",0,0,0,0
 Karl-Günther Bechem[g],West Germany,"[1952, 1953]",0,0,0,0
+Karun Chandhok,India,"[2010, 2011]",0,0,0,0
 Keith Andrews,United States,"[1955, 1956]",0,0,0,0
 Kenny Acheson,United Kingdom,"[1983, 1985]",0,0,0,0
+Kevin Cogan,United States,"[1980, 1981]",0,0,0,0
 Kurt Adolff,West Germany,[1953],0,0,0,0
 Kurt Ahrens Jr.,West Germany,"[1966, 1967, 1968, 1969]",0,0,0,0
+Larry Crockett,United States,[1954],0,0,0,0
 Lorenzo Bandini,Italy,"[1961, 1962, 1963, 1964, 1965, 1966, 1967]",0,1,8,58
+Louis Chiron,Monaco,"[1950, 1951, 1953, 1955, 1956, 1958]",0,0,1,4
 Luca Badoer,Italy,"[1993, 1995, 1996, 1999, 2009]",0,0,0,0
+Luciano Burti,Brazil,"[2000, 2001]",0,0,0,0
 Lucien Bianchi,Belgium,"[1959, 1960, 1961, 1962, 1963, 1965, 1968]",0,0,1,6
+Luiz Bueno,Brazil,[1973],0,0,0,0
 Luki Botha,South Africa,[1967],0,0,0,0
 Manny Ayulo,United States,"[1951, 1952, 1953, 1954]",0,0,1,2
 Marcel Balsa,France,[1952],0,0,0,0
 Marco Apicella,Italy,[1993],0,0,0,0
 Mario Andretti,United States,"[1968, 1969, 1970, 1971, 1972, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982]",1,12,19,180
 Mark Blundell,United Kingdom,"[1991, 1993, 1994, 1995]",0,0,3,32
+Martin Brundle,United Kingdom,"[1984, 1985, 1986, 1987, 1988, 1989, 1991, 1992, 1993, 1994, 1995, 1996]",0,0,9,98
 Mauro Baldi,Italy,"[1982, 1983, 1984, 1985]",0,0,0,5
+Max Chilton,United Kingdom,"[2013, 2014]",0,0,0,0
 Menato Boffa,Italy,[1961],0,0,0,0
 Michael Andretti,United States,[1993],0,0,1,7
 Michael Bartels,Germany,[1991],0,0,0,0
@@ -78,23 +154,47 @@ Olivier Beretta,Monaco,[1994],0,0,0,0
 Pablo Birger,Argentina,"[1953, 1955]",0,0,0,0
 Paolo Barilla,Italy,"[1989, 1990]",0,0,0,0
 Paul Belmondo,France,"[1992, 1994]",0,0,0,0
+Pedro Chaves,Portugal,[1991],0,0,0,0
 Peter Arundell,United Kingdom,"[1963, 1964, 1966]",0,0,2,12
 Peter Ashdown,United Kingdom,[1959],0,0,0,0
+Peter Broeker,Canada,[1963],0,0,0,0
+Peter Collins,United Kingdom,"[1952, 1953, 1954, 1955, 1956, 1957, 1958]",0,3,9,47
+Phil Cade,United States,[1959],0,0,0,0
 Philippe Adams,Belgium,[1994],0,0,0,0
 Philippe Alliot,France,"[1984, 1985, 1986, 1987, 1988, 1989, 1990, 1993, 1994]",0,0,0,7
+Piero Carini,Italy,"[1952, 1953]",0,0,0,0
+Piers Courage,United Kingdom,"[1967, 1968, 1969, 1970]",0,0,2,20
 Raul Boesel,Brazil,"[1982, 1983]",0,0,0,0
+Ray Crawford,United States,"[1955, 1956, 1959]",0,0,0,0
 Red Amick,United States,"[1959, 1960]",0,0,0,0
 René Arnoux,France,"[1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989]",0,7,22,181
 Richard Attwood,United Kingdom,"[1964, 1965, 1967, 1968, 1969]",0,0,1,11
 Roberto Bonomi,Argentina,[1960],0,0,0,0
+Roberto Bussinello,Italy,"[1961, 1965]",0,0,0,0
+Ronnie Bucknum,United States,"[1964, 1965, 1966]",0,0,0,2
 Rubens Barrichello,Brazil,"[1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011]",0,11,68,658
 Skip Barber,United States,"[1971, 1972]",0,0,0,0
 Slim Borgudd,Sweden,"[1981, 1982]",0,0,0,1
 Stefan Bellof,West Germany,"[1984, 1985]",0,0,0,4
+Sébastien Bourdais,France,"[2008, 2009]",0,0,0,6
+Sébastien Buemi,Switzerland,"[2009, 2010, 2011]",0,0,0,29
+Thierry Boutsen,Belgium,"[1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993]",0,3,15,132
 Tom Belsø,Denmark,"[1973, 1974]",0,0,0,0
+Tom Bridger,United Kingdom,[1958],0,0,0,0
+Tommy Byrne,Ireland,[1982],0,0,0,0
+Toni Branca,Switzerland,"[1950, 1951]",0,0,0,0
 Tony Bettenhausen,United States,"[1950, 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959, 1960]",0,0,1,11
+Tony Brise,United Kingdom,[1975],0,0,0,1
+Tony Brooks,United Kingdom,"[1956, 1957, 1958, 1959, 1960, 1961]",0,6,10,75
+Tony Crook,United Kingdom,"[1952, 1953]",0,0,0,0
 Trevor Blokdyk,South Africa,"[1963, 1965]",0,0,0,0
+Valtteri Bottas,Finland,"[2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022]",0,10,67,1791
+Vittorio Brambilla,Italy,"[1974, 1975, 1976, 1977, 1978, 1979, 1980]",0,1,1,15.5
 Walt Ader,United States,[1950],0,0,0,0
+Walt Brown,United States,"[1950, 1951]",0,0,0,0
+Warwick Brown,Australia,[1976],0,0,0,0
+Yannick Dalmas,France,"[1987, 1988, 1989, 1990, 1994]",0,0,0,0
 Zsolt Baumgartner,Hungary,"[2003, 2004]",0,0,0,1
 Élie Bayol,France,"[1952, 1953, 1954, 1955, 1956]",0,0,0,2
 Éric Bernard,France,"[1989, 1990, 1991, 1994]",0,0,1,10
+Érik Comas,France,"[1991, 1992, 1993, 1994]",0,0,0,7
