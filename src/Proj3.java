@@ -246,21 +246,36 @@ public class Proj3 {
 
         inputFileNameScanner.nextLine();
 
-        ArrayList<String> data = new ArrayList<>(numLines);
+        ArrayList<F1> data = new ArrayList<>(numLines);
         while (inputFileNameScanner.hasNextLine() && data.size() < numLines) {
             String line = inputFileNameScanner.nextLine().trim();
-            if (!line.isEmpty()) {
-                data.add(line);
+            if (line.isEmpty()) {
+                continue;
             }
+            String[] stats = line.split(",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)");
+            String driver = stats[0];
+            String nationality = stats[1];
+            String seasonsRaw = stats[2].replace("[", "").replace("]", "").replace("\"", "").trim();
+            String[] seasons;
+            if (seasonsRaw.isEmpty()) {
+                seasons = new String[0];
+            } else {
+                seasons = seasonsRaw.split("\\s*,\\s*");
+            }
+            int championships = Integer.parseInt(stats[3]);
+            int raceWins = Integer.parseInt(stats[4]);
+            int podiums = Integer.parseInt(stats[5]);
+            double points = Double.parseDouble(stats[6]);
+            data.add(new F1(driver, nationality, seasons, championships, raceWins, podiums, points));
         }
         inputFileNameScanner.close();
         inputFileNameStream.close();
 
-        ArrayList<String> sorted = new ArrayList<>(data);
+        ArrayList<F1> sorted = new ArrayList<>(data);
         Collections.sort(sorted);
-        ArrayList<String> shuffled = new ArrayList<>(sorted);
+        ArrayList<F1> shuffled = new ArrayList<>(sorted);
         Collections.shuffle(shuffled);
-        ArrayList<String> reversed = new ArrayList<>(sorted);
+        ArrayList<F1> reversed = new ArrayList<>(sorted);
         reversed.sort(Collections.reverseOrder());
 
         FileWriter analysisWriter = new FileWriter("analysis.txt", true); // append
@@ -297,7 +312,7 @@ public class Proj3 {
 
             analysisWriter.write(algorithm + "," + numLines + "," + sortedComparison + "," + shuffledComparison + "," + reversedComparison + "\n");
             analysisWriter.write(algorithm + "," + numLines + "," + sortedTime + "," + shuffledTime + "," + reversedTime + "\n");
-            for (String val : new ArrayList<>(sorted)) {
+            for (F1 val : new ArrayList<>(sorted)) {
                 sortedWriter.write(val + "\n");
             }
             sortedWriter.close();
@@ -313,7 +328,7 @@ public class Proj3 {
             System.out.printf("Reversed: %d comparisons%n", reversedComparison);
 
             analysisWriter.write(algorithm + "," + numLines + "," + sortedComparison + "," + shuffledComparison + "," + reversedComparison + "\n");
-            for (String val : new ArrayList<>(sorted)) {
+            for (F1 val : new ArrayList<>(sorted)) {
                 sortedWriter.write(val + "\n");
             }
             sortedWriter.close();
@@ -327,7 +342,7 @@ public class Proj3 {
             double reversedTime;
 
             // Already sorted
-            ArrayList<String> copy = new ArrayList<>(sorted);
+            ArrayList<F1> copy = new ArrayList<>(sorted);
             start = System.nanoTime();
             if (algorithm.equals("mergesort")){
                 mergeSort(copy, 0, copy.size() - 1);
@@ -376,7 +391,7 @@ public class Proj3 {
             System.out.printf("Reversed: %.6f seconds%n", reversedTime);
 
             analysisWriter.write(algorithm + "," + numLines + "," + sortedTime + "," + shuffledTime + "," + reversedTime + "\n");
-            for (String val : copy) {
+            for (F1 val : copy) {
                 sortedWriter.write(val + "\n");
             }
             sortedWriter.close();
